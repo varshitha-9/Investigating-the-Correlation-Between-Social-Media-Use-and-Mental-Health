@@ -2,7 +2,7 @@
 This project explored the link between social media use and mental health. Analysis of survey data revealed correlations between excessive use, negative comparisons, and increased anxiety and depression. Findings suggest the importance of mindful social media practices.
 
 
-![Analyzing social media & mental health ](images/survey_results.png) 
+![Analyzing social media & mental health ](images.jpg) 
 
 ## About
 
